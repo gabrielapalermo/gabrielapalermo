@@ -5,5 +5,7 @@
 - 👩‍🔬 I’m a Chemical Engineering Student
 - 🚀 My biggest dream: I want, through my knowledge and actions, to help make the world a better place.
 
-
+<div>
+![Snake animation](https://github.com/gabrielapalermo/gabrielapalermo/blob/output/github-contribution-grid-snake.svg)
+</div>
 
