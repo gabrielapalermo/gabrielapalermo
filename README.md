@@ -1,4 +1,4 @@
-### Hello!!! I am Gabriela Palermo (but you can call me Gabi 😄)
+### Hello!!! I am Gabriela Palermo (but you can call me Gabi🌺)
 
 
 - 📱 I’m currently working on mobile development (android)
